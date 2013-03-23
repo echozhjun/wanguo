@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>万国文化</title>
+    <meta name="description" content=""/>
+    <meta name="keywords" content=""/>
+    <script type="text/javascript" src="${assert}/js/jquery-1.7.js"></script>
+    <link rel="stylesheet" href="${assert}/css/index.css" />
+</head>
+<body>
+<div class="bgline"></div>
+
+<div class="wrap">
+<div class="sidebar">
+    <div class="logo">
+        <a href="#" title="视觉共享">
+            <img src="${assert}/img/logo.png" alt="" width="150"/>
+        </a>
+
+        <p class="description">万国国际文化发展有限公司</p>
+    </div>
+    <nav class="menu-nav">
+        <ul>
+            <li class="homeicon current">
+                <a href="#" title="首页">首页</a>
+            </li>
+
+
+            <li class=" navicon1 ">
+                <a href="/?tag=%E6%8F%92%E7%94%BB">企业介绍</a>
+            </li>
+
+            <li class=" navicon1 ">
+                <a href="/?tag=%E8%AE%BE%E8%AE%A1">活动资讯</a>
+            </li>
+
+            <li class=" navicon1 ">
+                <a href="/?tag=%E6%91%84%E5%BD%B1">招商合作</a>
+            </li>
+
+            <li class=" navicon1 ">
+                <a href="/?tag=%E6%97%B6%E5%B0%9A">新闻动态</a>
+            </li>
+
+            <li class=" navicon1 ">
+                <a href="/?tag=%E5%8A%A8%E7%94%BB">艺人</a>
+            </li>
+
+        </ul>
+    </nav>
+
+    <!-- BEGIN #back-to-top -->
+    <div id="back-to-top" class="cf hidden">
+        <a href="#">
+            <span class="topicon left"><span class="arrow"></span></span>
+            <span class="toptext left">Back to Top</span>
+        </a>
+        <!-- END #back-to-top -->
+    </div>
+
+</div>
+
+<div class="posts-wrap cf">
+
+
+<div id="masonrywarp" class="postlist">
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2013-03-19/40048709868" class="postlink"><img
+                src="http://m3.img.libdd.com/farm5/2013/0319/21/0EFE2B42194B0457B9A4A555498A47F626E52BC708D24_500_313.jpg"
+                alt="设计" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2013-03-19/40048709868" title="" class="postdate left"></a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2013-02-21/40049551616" class="postlink"><img
+                src="http://m2.img.libdd.com/farm4/2013/0221/11/1AC5FA1C902F0225CFB244099C038FC6216C8BF311DFC_500_366.jpg"
+                alt="美国水彩写实画家John Salminen作品" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2013-02-21/40049551616" title="美国水彩写实画家John Salminen作品"
+               class="postdate left">美国水彩写实画家John Salminen作品</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2013-02-17/40049199589" class="postlink"><img
+                src="http://m2.img.libdd.com/farm4/2012/0819/12/5C1BFAD16582BBDA1751AD0CDA925123A5D54D8D7D8E_500_853.jpg"
+                alt="时尚插画Bartosz Kosowski《Co-addiction for Twoj Styl》" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2013-02-17/40049199589"
+               title="时尚插画Bartosz Kosowski《Co-addiction for Twoj Styl》" class="postdate left">时尚插画Bartosz
+                Kosowski《Co-addiction for Twoj Styl》</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2013-02-17/40048939456" class="postlink"><img
+                src="http://m2.img.libdd.com/farm5/2013/0217/15/3ED28575EDA106E3ADBCC4CFE9ACCC02C1CEB5BF41FA4_500_707.jpg"
+                alt="kimroselier" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2013-02-17/40048939456" title="kimroselier" class="postdate left">kimroselier</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2013-02-04/40049973368" class="postlink"><img
+                src="http://m1.img.libdd.com/farm4/2013/0204/15/527497DA66D994748DD87BCD1D2AA32C0F1813B6DBEF6_500_492.jpg"
+                alt="年轮拓片" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2013-02-04/40049973368" title="年轮拓片" class="postdate left">年轮拓片</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2013-01-17/40046773479" class="postlink"><img
+                src="http://m2.img.libdd.com/farm4/2013/0117/11/6FA5E053E493A5C41A083964F03A3DE668E894FA31441_453_700.JPEG"
+                alt="插画" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2013-01-17/40046773479" title="" class="postdate left"></a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2013-01-13/40046056092" class="postlink"><img
+                src="http://m3.img.libdd.com/farm4/2013/0113/20/E4F4549FC82C7DDEA2653C086F016CED2BF99B4D52629_500_433.jpg"
+                alt="Facebook - New Look &amp; Concept on Behance" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2013-01-13/40046056092"
+               title="Facebook - New Look &amp; Concept on Behance" class="postdate left">Facebook - New Look &amp;
+                Concept on Behance</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2013-01-13/40047308305" class="postlink"><img
+                src="http://m3.img.libdd.com/farm4/2013/0113/19/3F5B3CB8D87A4F04805037C3A6ABFCCF1BE8C9AE81476_500_334.jpg"
+                alt="Elephants in the Kitchen Boston based Bluerock... | Escape Kit" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2013-01-13/40047308305"
+               title="Elephants in the Kitchen Boston based Bluerock... | Escape Kit" class="postdate left">Elephants in
+                the Kitchen Boston based Bluerock... | Escape Kit</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2012-12-26/40046254335" class="postlink"><img
+                src="http://m1.img.libdd.com/farm5/2012/1226/17/F969E89E4D58E780DB2ABC287BA1A5421E87BCF8EEC8C_440_623.PNG"
+                alt="A comic about North Korea for Pravda magazine" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2012-12-26/40046254335"
+               title="A comic about North Korea for Pravda magazine" class="postdate left">A comic about North Korea for
+                Pravda magazine</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2012-12-16/40046872984" class="postlink"><img
+                src="http://m3.img.libdd.com/farm5/2012/1216/15/B6DBA318C0DFF7AA193636BB442A846A1CC2A4059526D_500_300.jpg"
+                alt="少年派 - LIFE OF PI" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2012-12-16/40046872984" title="少年派 - LIFE OF PI" class="postdate left">少年派
+                - LIFE OF PI</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2012-12-16/40047441334" class="postlink"><img
+                src="http://m1.img.libdd.com/farm4/2012/1216/18/3BC185999DA608646BF14935292D6C54681CBB20793F4_500_702.jpg"
+                alt="什么是瞬间转移" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2012-12-16/40047441334" title="什么是瞬间转移"
+               class="postdate left">什么是瞬间转移</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2012-12-13/40046669086" class="postlink"><img
+                src="http://m3.img.libdd.com/farm5/2012/1212/11/162FA275E95C3097CF002DF43BAE3EEF4AB3F90FC3637_500_353.jpg"
+                alt="Ruaa Bar&amp;Restaurant" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2012-12-13/40046669086" title="Ruaa Bar&amp;Restaurant"
+               class="postdate left">Ruaa Bar&amp;Restaurant</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2012-12-11/40047606091" class="postlink"><img
+                src="http://m3.img.libdd.com/farm5/2012/1206/13/16668F16E0E1916FB2BDA49E5839EEBD8B1CD6442D4C2_500_708.jpg"
+                alt="设计,插画" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2012-12-11/40047606091" title="" class="postdate left"></a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2012-12-02/40043896328" class="postlink"><img
+                src="http://m1.img.libdd.com/farm5/2012/1202/18/F0C225EB513D030619406D8516B159DA12E064EC8DB2E_400_533.GIF"
+                alt="A Collection of Dancing Leaves" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2012-12-02/40043896328" title="A Collection of Dancing Leaves"
+               class="postdate left">A Collection of Dancing Leaves</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2012-12-02/40042282942" class="postlink"><img
+                src="http://m3.img.libdd.com/farm5/2012/1202/18/CA45B16763253FBCBB9FF5123A07091DD1A7D347CC9E0_500_561.jpg"
+                alt="Smallest cafe place in North America" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2012-12-02/40042282942" title="Smallest cafe place in North America"
+               class="postdate left">Smallest cafe place in North America</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2012-12-02/40043486990" class="postlink"><img
+                src="http://m2.img.libdd.com/farm4/2012/1202/18/FE9F345DF9975FBF5B75929F6EE65ED4C5AD12D2B59F6_500_618.jpg"
+                alt="Clase Premier / Peter Jackson" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2012-12-02/40043486990" title="Clase Premier / Peter Jackson"
+               class="postdate left">Clase Premier / Peter Jackson</a>
+        </div>
+
+    </div>
+</div>
+
+
+<div class="post">
+    <div class="post-entry">
+
+        <a href="http://www.xxchixx.com/post/2012-12-02/40043458278" class="postlink"><img
+                src="http://m1.img.libdd.com/farm5/2012/1202/17/99312F2304711195B4624E6C10702B140170E3010158D_500_317.jpg"
+                alt="LOGO DESIGN III" width="300"/>
+        </a>
+
+        <div class="cf">
+            <a href="http://www.xxchixx.com/post/2012-12-02/40043458278" title="LOGO DESIGN III" class="postdate left">LOGO
+                DESIGN III</a>
+        </div>
+
+    </div>
+</div>
+
+
+</div>
+
+
+</div>
+
+</div>
+
+
+<script type="text/javascript" src="${assert}/js/jquery.masonry.js"></script>
+
+<script type="text/javascript">
+    $(document).ready(function () {
+        var container = $('#masonrywarp');
+
+        container.imagesLoaded(function () {
+            container.masonry({
+                itemSelector: '.post',
+                columnWidth: 0
+            });
+        });
+    });
+</script>
+
+</body>
+</html>
